@@ -1,3 +1,4 @@
+@deprecated
 # My-VSCode-theme-config
 
 ### Extension 👇 <br>
